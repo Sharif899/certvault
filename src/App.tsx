@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
-import { IssuePage } from "./pages/Issue";
-import { VerifyPage } from "./pages/Verify";
-import "./styles/app.css";
+import { IssuePage } from "./Issue";
+import { VerifyPage } from "./Verify";
+import "./app.css";
 
 type Route =
   | { name: "home" }
