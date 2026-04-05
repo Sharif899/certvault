@@ -309,7 +309,7 @@ VITE_SHELBY_API_KEY       = aptoslabs_...
 
 **Organisation registry** — store issuer organisation profiles as blobs at `orgs/{orgId}.json` so verifiers can see the issuer's full credentials.
 
-**Expiring certificates** — use Shelby's native blob expiry (`expirationMicros`) to automatically expire time-limited credentials like annual safety training completions.
+**Expiring certificates** — use Shelby's native blob expiry (`expirationMicros`) to automatically expire time-limited credentials like annual  safety training completions.
 
 ---
 
