@@ -117,4 +117,3 @@ function HomePage({ onNavigate }: { onNavigate: (path: string) => void }) {
     </div>
   );
 }
-
